@@ -1,6 +1,8 @@
 # python_csv_compare
 author: minions320
+
 version: 1.0
+
 date: 2024.05.01
 
 # usage
